@@ -2,7 +2,7 @@
 title: 个人网站搭建步骤
 date: 2021-02-22
 tags:
- - 学习记录   
+ - 杂项配置等   
 categories: 
  - other
 ---

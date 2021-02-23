@@ -1,8 +1,8 @@
 const themeConfig = require('./config/theme/')
 
 module.exports = {
-  title: "山有木兮卿有意",
-  description: 'Enjoy when you can, and endure when you must.',
+  title: "lllanlll",
+  description: '愿此间 山有木兮卿有意',
   dest: 'public',
   head: [
     ['link', {

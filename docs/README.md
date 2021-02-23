@@ -4,7 +4,7 @@ bgImage: '/guilin_view.jpg'
 bgImageStyle: {
   height: '800px'
 }
-faceImage: '/head.png'
+faceImage: '/head_1.png'
 heroImage: /hero_write.png
 heroImageStyle: {
   maxHeight: '200px',
