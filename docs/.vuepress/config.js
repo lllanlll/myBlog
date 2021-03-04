@@ -3,7 +3,8 @@ const themeConfig = require('./config/theme/')
 module.exports = {
   title: "lllanlll",
   description: '愿此间 山有木兮卿有意',
-  dest: 'public',
+  dest: 'lllanlll',
+  base: "/lllanlll/",
   head: [
     ['link', {
       rel: 'icon',

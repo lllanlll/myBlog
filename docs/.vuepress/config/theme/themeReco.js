@@ -16,7 +16,7 @@ module.exports = {
   // 作者
   author: 'linjh',
   // 备案号
-  record: '京ICP备17067634号-1',
+  record: '京ICP备2021006178号',
   // 项目开始时间
   startYear: '2021',
   valineConfig: {
